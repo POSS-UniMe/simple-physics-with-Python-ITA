@@ -1,4 +1,4 @@
-# simple-physics-with-Python
+# simple-physics-with-Python  (ITALIAN version)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
 
