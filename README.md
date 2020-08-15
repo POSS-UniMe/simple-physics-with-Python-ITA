@@ -2,6 +2,13 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
 
+## Esempi ed esercizi di Fisica per il CdL in INFORMATICA - UniMe
+
+### Parte I. Moto 1-D
+#### Sezione 1. Moto con velocità costante
+
+#### Sezione 2. Moto con accelerazione costante
+
 
 ### Copyright and License
 --------------------------
