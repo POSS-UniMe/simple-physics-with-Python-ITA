@@ -7,7 +7,7 @@
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante
 1. [Tempo di reazione](SpazioReazione.ipynb)
-2. [Sensore di distanza a ultrasuoni]()
+2. [Sensore di distanza a ultrasuoni](SensoreDistanza.ipynb)
 * #### Sezione 2. Moto con accelerazione costante
 * #### Sezione 3. Moto vario
 ### Parte II. Moto 2-D
