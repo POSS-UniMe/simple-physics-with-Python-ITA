@@ -5,9 +5,9 @@
 ## Esempi ed esercizi di Fisica
 
 ### Parte I. Moto 1-D
-#### Sezione 1. Moto con velocità costante
+* #### Sezione 1. Moto con velocità costante
 
-#### Sezione 2. Moto con accelerazione costante
+* #### Sezione 2. Moto con accelerazione costante
 
 
 ### Copyright and License
