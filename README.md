@@ -6,8 +6,9 @@
 
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante
-
 * #### Sezione 2. Moto con accelerazione costante
+* #### Sezione 3. Moto vario
+### Parte II. Moto 2-D
 
 
 ### Copyright and License
