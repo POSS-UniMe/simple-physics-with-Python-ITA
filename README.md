@@ -20,6 +20,10 @@
 * #### Sezione 1. Moto circolare
 * #### Sezione 2. Moto parabolico
 
+### Materiale di supporto
+* #### Trigonometria
+
+
 &nbsp;
 
 &nbsp;
