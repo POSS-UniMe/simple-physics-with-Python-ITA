@@ -8,10 +8,17 @@
 * #### Sezione 1. Moto con velocità costante
 1. [Tempo di reazione](SpazioReazione.ipynb)
 2. [Sensore di distanza a ultrasuoni](SensoreDistanza.ipynb)
+3. Distanza Terra-Luna
+4. Comunicazioni a lunga distanza (latency)
 * #### Sezione 2. Moto con accelerazione costante
-* #### Sezione 3. Moto vario
+1. Caduta libera
+2. Accelerazione massima di un'automobile
+* #### Sezione 3. Esperimenti ed analisi dei dati
+1. Viaggio in ascensore
+2. Moto lungo un piano inclinato
 ### Parte II. Moto 2-D
-
+* #### Sezione 1. Moto circolare
+* #### Sezione 2. Moto parabolico
 
 ### Copyright and License
 --------------------------
