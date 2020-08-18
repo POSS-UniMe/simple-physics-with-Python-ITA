@@ -20,6 +20,8 @@
 * #### Sezione 1. Moto circolare
 * #### Sezione 2. Moto parabolico
 
+\_
+
 ### Copyright and License
 --------------------------
 (c) 2020 Andrea Mandanici. All content is under Creative Common Attribution  <a rel="license" href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0
