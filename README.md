@@ -6,7 +6,7 @@
 
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante
-1. [Tempo di reazione](SpazioReazione.ipynb)
+1. [Tempo di reazione. Spazio di reazione](/notebook/SpazioReazione.ipynb)
 2. [Sensore di distanza a ultrasuoni](SensoreDistanza.ipynb)
 3. Distanza Terra-Luna
 4. Comunicazioni a lunga distanza (latency)
