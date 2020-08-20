@@ -2,6 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
 
+
+# Simple physics with Python
+
 ## Esempi ed esercizi di Fisica
 
 ### Parte I. Moto 1-D
@@ -30,7 +33,7 @@
 
 &nbsp;
 
-### Acknowledgments
+### Acknowledgment
 Progetto realizzato sull'esempio dell'archivio GitHub [Engineering Computations](https://github.com/engineersCode/EngComp)
 di Lorena A. Barba e Natalia C. Clementi
 
