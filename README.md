@@ -9,7 +9,7 @@
 1. [Tempo di reazione. Spazio di reazione](/notebook/SpazioReazione.ipynb)
 2. [Sensore ultrasonico di distanza](/notebook/SensoreDistanza.ipynb)
 3. [Distanza Terra-Luna](/notebook/DistanzaTerraLunaVer2.ipynb)
-4. [Comunicazioni a lunga distanza (latency)](ComunicazioniLungaDistanza.ipynb)
+4. [Comunicazioni a lunga distanza (latency)](notebook/ComunicazioniLungaDistanza.ipynb)
 * #### Sezione 2. Moto con accelerazione costante
 1. [Caduta libera](/notebook/CadutaDeiGravi.ipynb)
 2. [Accelerazione massima di un'automobile](/notebook/AccelerazioneAutomobile.ipynb)
