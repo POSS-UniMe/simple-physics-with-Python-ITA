@@ -1,9 +1,7 @@
-# simple-physics-with-Python  (ITALIAN version)
+# Simple physics with Python  (ITALIAN version)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
 
-
-# Simple physics with Python
 
 ## Esempi ed esercizi di Fisica
 
