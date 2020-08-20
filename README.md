@@ -30,6 +30,10 @@
 
 &nbsp;
 
+### Acknowledgments
+Progetto realizzato sull'esempio dell'archivio GitHub [Engineering Computations](https://github.com/engineersCode/EngComp)
+di Lorena A. Barba e Natalia C. Clementi
+
 ### Copyright and License
 --------------------------
 (c) 2020 Andrea Mandanici, Marco Guarnera, Giuseppe Mandaglio, Giovanni Pirrotta. All content is under Creative Common Attribution  <a rel="license" href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0
