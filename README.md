@@ -7,15 +7,15 @@
 
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante
-1. [Tempo di reazione. Spazio di reazione](/notebook/SpazioReazione.ipynb)
-2. [Sensore ultrasonico di distanza](/notebook/SensoreDistanza.ipynb)
-3. [Distanza Terra-Luna](/notebook/DistanzaTerraLunaVer2.ipynb)
-4. [Comunicazioni a lunga distanza (latency)](notebook/ComunicazioniLungaDistanza.ipynb)
+1. [Tempo di reazione. Spazio di reazione](/notebook/1-1-SpazioReazione.ipynb)
+2. [Sensore ultrasonico di distanza](/notebook/1-2-SensoreDistanza.ipynb)
+3. [Distanza Terra-Luna](/notebook/1-3-DistanzaTerraLunaVer2.ipynb)
+4. [Comunicazioni a lunga distanza (latency)](notebook/1-4-ComunicazioniLungaDistanza.ipynb)
 * #### Sezione 2. Moto con accelerazione costante
-1. [Caduta libera](/notebook/CadutaDeiGravi.ipynb)
-2. [Accelerazione massima di un'automobile](/notebook/AccelerazioneAutomobile.ipynb)
+1. [Caduta libera](/notebook/2-1-CadutaDeiGravi.ipynb)
+2. [Accelerazione massima di un'automobile](/notebook/2-2-AccelerazioneAutomobile.ipynb)
 * #### Sezione 3. Esperimenti ed analisi dei dati
-1. [Viaggio in ascensore](/notebook/ViaggioInAscensoreVer001.ipynb)
+1. [Viaggio in ascensore](/notebook/3-1-ViaggioInAscensoreVer001.ipynb)
 2. Moto lungo un piano inclinato
 ### Parte II. Moto 2-D
 * #### Sezione 1. Moto circolare
