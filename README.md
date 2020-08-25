@@ -23,7 +23,7 @@
 
 &nbsp;
 
-### Appendici
+### Informazioni di supporto
 * #### Trigonometria
 
 
