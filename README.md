@@ -20,10 +20,7 @@
 ### Parte II. Moto 2-D
 * #### Sezione 1. Moto circolare
 * #### Sezione 2. Moto parabolico
-
-&nbsp;
-
-### Informazioni di supporto
+### Parte III. Argomenti di supporto
 * #### Trigonometria
 
 
