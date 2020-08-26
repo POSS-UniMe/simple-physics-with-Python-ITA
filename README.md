@@ -5,6 +5,8 @@
 
 ## Esempi ed esercizi di Fisica
 
+![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)\n
+
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante
 1. [Spazio di reazione](/notebook/1-1-SpazioReazione.ipynb)
