@@ -5,16 +5,12 @@
 
 ## Esempi ed esercizi di Fisica
 
-"[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)\n"
-
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante
 1. [Spazio di reazione](/notebook/1-1-SpazioReazione.ipynb)
 2. [Sensore ultrasonico di distanza](/notebook/1-2-SensoreDistanza.ipynb)
 3. [Distanza Terra-Luna](/notebook/1-3-DistanzaTerraLunaVer2.ipynb)
 4. [Comunicazioni a lunga distanza (latency)](notebook/1-4-ComunicazioniLungaDistanza.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python-ITA/master?filepath=notebook%2F1-4-ComunicazioniLungaDistanza.ipynb)
 
 * #### Sezione 2. Moto con accelerazione costante
 1. [Caduta libera](/notebook/2-1-CadutaDeiGravi.ipynb)
