@@ -13,7 +13,7 @@
 4. [Comunicazioni a lunga distanza (latency)](notebook/1-4-ComunicazioniLungaDistanza.ipynb)
 
 * #### Sezione 2. Moto con accelerazione costante
-1. [Caduta libera](/notebook/2-1-CadutaDeiGravi.ipynb)
+1. [Caduta libera](/notebook/2-1-CadutaLibera.ipynb)
 2. [Accelerazione massima di un'automobile](/notebook/2-2-AccelerazioneAutomobile.ipynb)
 * #### Sezione 3. Esperimenti ed analisi dei dati
 1. [Viaggio in ascensore](/notebook/3-1-ViaggioInAscensoreVer001.ipynb)
