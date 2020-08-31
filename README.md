@@ -35,6 +35,5 @@ di Lorena A. Barba e Natalia C. Clementi
 
 ### Copyright and License
 --------------------------
-(c) 2020 Andrea Mandanici, Marco Guarnera, Giuseppe Mandaglio, Giovanni Pirrotta - **P**hysics with **O**pen **S**ource **S**oftware - UniMe (Università di Messina). All content is under Creative Common Attribution  <a rel="license" href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0<a/>
- 
+(c) 2020 Andrea Mandanici, Marco Guarnera, Giuseppe Mandaglio, Giovanni Pirrotta - **P**hysics with **O**pen **S**ource **S**oftware - UniMe (Università di Messina). All content is under Creative Common Attribution  <a rel="license" href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0<a/> 
  and all code is under [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
