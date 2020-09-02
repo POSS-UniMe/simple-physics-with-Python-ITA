@@ -19,8 +19,8 @@
 1. [Viaggio in ascensore](/notebook/3-1-ViaggioInAscensoreVer001.ipynb)
 2. [Moto lungo un piano inclinato](/notebook/3-2-PianoInclinato.ipynb)
 ### Parte II. Moto 2-D
-* #### Sezione 1. Moto circolare
-* #### Sezione 2. Moto parabolico
+* #### Sezione 1. Moto parabolico
+* #### Sezione 2. Moto circolare
 ### Parte III. Argomenti di supporto
 * #### Trigonometria
 
