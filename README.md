@@ -2,7 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python-ITA/master?filepath=README.md)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp1_offtheground/master)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
 
 ## Esempi ed esercizi di Fisica
 
