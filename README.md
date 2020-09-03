@@ -7,17 +7,17 @@
 
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante
-1. [Spazio di reazione](/notebook/1-1-SpazioReazione.ipynb)
-2. [Sensore ultrasonico di distanza](/notebook/1-2-SensoreDistanza.ipynb)
-3. [Distanza Terra-Luna](/notebook/1-3-DistanzaTerraLunaVer2.ipynb)
-4. [Comunicazioni a lunga distanza (latency)](notebook/1-4-ComunicazioniLungaDistanza.ipynb)
+1. [Spazio di reazione](/notebook/1-1-1-SpazioReazione.ipynb)
+2. [Sensore ultrasonico di distanza](/notebook/1-1-2-SensoreDistanza.ipynb)
+3. [Distanza Terra-Luna](/notebook/1-1-3-DistanzaTerraLunaVer2.ipynb)
+4. [Comunicazioni a lunga distanza (latency)](notebook/1-1-4-ComunicazioniLungaDistanza.ipynb)
 
 * #### Sezione 2. Moto con accelerazione costante
-1. [Caduta libera](/notebook/2-1-CadutaLibera.ipynb)
-2. [Accelerazione di un'automobile](/notebook/2-2-AccelerazioneAutomobile.ipynb)
+1. [Caduta libera](/notebook/1-2-1-CadutaLibera.ipynb)
+2. [Accelerazione di un'automobile](/notebook/1-2-2-AccelerazioneAutomobile.ipynb)
 * #### Sezione 3. Esperimenti ed analisi dei dati
-1. [Viaggio in ascensore](/notebook/3-1-ViaggioInAscensoreVer001.ipynb)
-2. [Moto lungo un piano inclinato](/notebook/3-2-PianoInclinato.ipynb)
+1. [Viaggio in ascensore](/notebook/1-3-1-ViaggioInAscensoreVer001.ipynb)
+2. [Moto lungo un piano inclinato](/notebook/1-3-2-PianoInclinato.ipynb)
 ### Parte II. Moto 2-D
 * #### Sezione 1. Moto parabolico
 1. [Moto di un proiettile](/notebook/2-1-1-MotoProiettileVer02.ipynb)
