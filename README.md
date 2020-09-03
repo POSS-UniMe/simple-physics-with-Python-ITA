@@ -20,6 +20,7 @@
 2. [Moto lungo un piano inclinato](/notebook/3-2-PianoInclinato.ipynb)
 ### Parte II. Moto 2-D
 * #### Sezione 1. Moto parabolico
+1. [Moto di un proiettile](/notebook/2-1-1-MotoProiettileVer02.ipynb)
 * #### Sezione 2. Moto circolare
 ### Parte III. Argomenti di supporto
 * #### Trigonometria
