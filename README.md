@@ -22,7 +22,7 @@
 * #### Sezione 1. Moto parabolico
 1. [Moto di un proiettile](/notebook/2-1-1-MotoProiettileVer02.ipynb)
 * #### Sezione 2. Moto circolare
-2. [Moto circolare uniforme](/notebook/2-2-1-MotoCircolareUniforme.ipynb)
+1. [Moto circolare uniforme](/notebook/2-2-1-MotoCircolareUniforme.ipynb)
 ### Parte III. Argomenti di supporto
 * #### Trigonometria
 
