@@ -1,8 +1,5 @@
 # Simple physics with Python  (ITALIAN version)
-
-<hr width="500px;" color="blue"
-        size="10">  
-        
+    
 ## Esempi ed esercizi di Fisica
 
 ### Parte I. Moto 1-D
