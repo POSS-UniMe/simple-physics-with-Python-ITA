@@ -27,9 +27,11 @@
 
 &nbsp;
 
-> See the Jupyter notebooks with **Binder**
+See the Jupyter notebooks with **Binder**
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
+
+&nbsp;
 
 ### Acknowledgment
 Progetto realizzato sull'esempio dell'archivio GitHub [Engineering Computations](https://github.com/engineersCode/EngComp)
