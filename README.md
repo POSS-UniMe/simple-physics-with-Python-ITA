@@ -1,7 +1,5 @@
 # Simple physics with Python  (ITALIAN version)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
-
 
 ## Esempi ed esercizi di Fisica
 
@@ -28,6 +26,9 @@
 * #### Trigonometria
 
 &nbsp;
+
+> See the Jupyter notebooks with **Binder**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/simple-physics-with-Python/master)
 
 ### Acknowledgment
 Progetto realizzato sull'esempio dell'archivio GitHub [Engineering Computations](https://github.com/engineersCode/EngComp)
