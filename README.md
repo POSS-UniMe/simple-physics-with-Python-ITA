@@ -23,7 +23,7 @@
 1. [Moto di un proiettile](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-1-1-MotoProiettileVer02.ipynb)
 * #### Sezione 2. Moto circolare
 1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-2-1-MotoCircolareUniforme.ipynb)
-2. [Moto circolare uniforme-test](/notebook/2-2-1-MotoCircolareUniforme.ipynb)
+
 ### Parte III. Argomenti di supporto
 * #### Trigonometria
 
