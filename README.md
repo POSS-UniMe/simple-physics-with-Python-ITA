@@ -7,30 +7,25 @@
 
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante
-1. [Spazio di reazione](/notebook/1-1-1-SpazioReazione.ipynb)
-2. [Sensore ultrasonico di distanza](/notebook/1-1-2-SensoreDistanza.ipynb)
-3. [Distanza Terra-Luna](/notebook/1-1-3-DistanzaTerraLunaVer2.ipynb)
-4. [Comunicazioni a lunga distanza (latency)](notebook/1-1-4-ComunicazioniLungaDistanza.ipynb)
+1. [Spazio di reazione](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-1-SpazioReazione.ipynb)
+2. [Sensore ultrasonico di distanza](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-2-SensoreDistanza.ipynb)
+3. [Distanza Terra-Luna](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-3-DistanzaTerraLunaVer2.ipynb)
+4. [Comunicazioni a lunga distanza (latency)](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-4-ComunicazioniLungaDistanza.ipynb)
 
 * #### Sezione 2. Moto con accelerazione costante
-1. [Caduta libera](/notebook/1-2-1-CadutaLibera.ipynb)
-2. [Accelerazione di un'automobile](/notebook/1-2-2-AccelerazioneAutomobile.ipynb)
+1. [Caduta libera](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-1-CadutaLibera.ipynb)
+2. [Accelerazione di un'automobile](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-2-AccelerazioneAutomobile.ipynb)
 * #### Sezione 3. Esperimenti ed analisi dei dati
-1. [Viaggio in ascensore](/notebook/1-3-1-ViaggioInAscensoreVer001.ipynb)
-2. [Moto lungo un piano inclinato](/notebook/1-3-2-PianoInclinato.ipynb)
+1. [Viaggio in ascensore](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-3-1-ViaggioInAscensoreVer001.ipynb)
+2. [Moto lungo un piano inclinato](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-3-2-PianoInclinato.ipynb)
 ### Parte II. Moto 2-D
 * #### Sezione 1. Moto parabolico
-1. [Moto di un proiettile](/notebook/2-1-1-MotoProiettileVer02.ipynb)
+1. [Moto di un proiettile](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-1-1-MotoProiettileVer02.ipynb)
 * #### Sezione 2. Moto circolare
-1. [Moto circolare uniforme](/notebook/2-2-1-MotoCircolareUniforme.ipynb)
+1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-2-1-MotoCircolareUniforme.ipynb)
+2. [Moto circolare uniforme-test](/notebook/2-2-1-MotoCircolareUniforme.ipynb)
 ### Parte III. Argomenti di supporto
 * #### Trigonometria
-
--- work in progress
-[Temporary test](https://nbviewer.jupyter.org/github/engineersCode/EngComp1_offtheground/blob/master/notebooks_en/1_Interacting_with_Python.ipynb)
-[Second test](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-1-SpazioReazione.ipynb)
-
-&nbsp;
 
 &nbsp;
 
