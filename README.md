@@ -26,6 +26,7 @@
 ### Parte III. Argomenti di supporto
 * #### Trigonometria
 
+work in progress [Temporary test](https://nbviewer.jupyter.org/github/engineersCode/EngComp1_offtheground/blob/master/notebooks_en/1_Interacting_with_Python.ipynb)
 
 &nbsp;
 
