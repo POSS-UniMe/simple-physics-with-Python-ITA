@@ -22,7 +22,7 @@
 1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-2-1-MotoCircolareUniforme.ipynb)
 
 ### Parte III. Argomenti di supporto
-* #### Trigonometria
+* #### Angoli e funzioni trigonometriche
 
 &nbsp;
 
