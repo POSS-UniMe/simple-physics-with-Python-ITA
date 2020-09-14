@@ -26,7 +26,7 @@
 1. [Misura degli angoli](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/3-1-1-Trigonometry.ipynb)
 2. [Funzioni trigonometriche](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/3-1-2-TrigonometricFunctions.ipynb)
 
-[prova](https://github.com/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/3-1-2-TrigonometricFunctions.ipynb)
+[prova](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/3-1-2-TrigonometricFunctions.ipynb)
 
 &nbsp;
 
