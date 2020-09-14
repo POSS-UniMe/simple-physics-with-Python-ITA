@@ -22,8 +22,9 @@
 1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-2-1-MotoCircolareUniforme.ipynb)
 
 ### Parte III. Argomenti di supporto
-* #### [Misura degli angoli](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/3-1-1-Trigonometry.ipynb)
-* #### [Funzioni trigonometriche](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/3-1-2-TrigonometricFunctions.ipynb)
+* #### Sezione 1. Trigonometria
+1. [Misura degli angoli](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/3-1-1-Trigonometry.ipynb)
+2. [Funzioni trigonometriche](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/3-1-2-TrigonometricFunctions.ipynb)
 
 &nbsp;
 
