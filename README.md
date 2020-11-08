@@ -17,7 +17,7 @@
 2. [Moto lungo un piano inclinato](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-3-2-PianoInclinato.ipynb)
 ### Parte II. Moto 2-D
 * #### Sezione 1. Moto parabolico
-1. [Moto di un proiettile](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-1-1-MotoProiettile.ipynb)
+1a. [Moto di un proiettile](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-1-1-MotoProiettile.ipynb)
 * #### Sezione 2. Moto circolare
 1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-2-1-MotoCircolareUniforme.ipynb)
 
