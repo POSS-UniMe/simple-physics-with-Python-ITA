@@ -12,6 +12,7 @@
 * #### Sezione 2. Moto con accelerazione costante
 1. [Caduta libera](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-1-CadutaLibera.ipynb)
 2. [Accelerazione di un'automobile](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-2-AccelerazioneAutomobile.ipynb)
+3. [Atterraggio di un aereo. Distanza di arresto](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-3-AtterraggioAereo.ipynb)
 * #### Sezione 3. Esperimenti ed analisi dei dati
 1. [Viaggio in ascensore](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-3-1-ViaggioInAscensore.ipynb)
 2. [Moto lungo un piano inclinato](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-3-2-PianoInclinato.ipynb)
