@@ -10,22 +10,22 @@
 4. [Comunicazioni a lunga distanza (latency)](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-1-4-ComunicazioniLungaDistanza.ipynb)
 
 * #### Sezione 2. Moto con accelerazione costante
-1. [Caduta libera](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-1-CadutaLibera.ipynb)
-2. [Accelerazione di un'automobile](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-2-AccelerazioneAutomobile.ipynb)
-3. [Atterraggio di un aereo. Distanza di arresto](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-3-AtterraggioAereo.ipynb)
+1. [Caduta libera](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-2-1-CadutaLibera.ipynb)
+2. [Accelerazione di un'automobile](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-2-2-AccelerazioneAutomobile.ipynb)
+3. [Atterraggio di un aereo. Distanza di arresto](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-2-3-AtterraggioAereo.ipynb)
 * #### Sezione 3. Esperimenti ed analisi dei dati
-1. [Viaggio in ascensore](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-3-1-ViaggioInAscensore.ipynb)
-2. [Moto lungo un piano inclinato](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-3-2-PianoInclinato.ipynb)
+1. [Viaggio in ascensore](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-3-1-ViaggioInAscensore.ipynb)
+2. [Moto lungo un piano inclinato](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-3-2-PianoInclinato.ipynb)
 ### Parte II. Moto 2-D
 * #### Sezione 1. Moto parabolico
-1. [Moto di un proiettile](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-1-1-MotoProiettile.ipynb)
+1. [Moto di un proiettile](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/2-1-1-MotoProiettile.ipynb)
 * #### Sezione 2. Moto circolare
-1. [Moto circolare uniforme](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/2-2-1-MotoCircolareUniforme.ipynb)
+1. [Moto circolare uniforme](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/2-2-1-MotoCircolareUniforme.ipynb)
 
 ### Parte III. Argomenti di supporto
 * #### Sezione 1. Trigonometria
-1. [Misura degli angoli](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/3-1-1-Trigonometry.ipynb)
-2. [Funzioni trigonometriche](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/3-1-2-TrigonometricFunctions.ipynb)
+1. [Misura degli angoli](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/3-1-1-Trigonometry.ipynb)
+2. [Funzioni trigonometriche](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/3-1-2-TrigonometricFunctions.ipynb)
 
 &nbsp;
 
