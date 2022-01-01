@@ -5,7 +5,7 @@
 ### Parte I. Moto 1-D
 * #### Sezione 1. Moto con velocità costante  
 1. [Spazio di reazione](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-1-1-SpazioReazione.ipynb)
-2. [Sensore ultrasonico di distanza](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA//blob/master/notebook/1-1-2-SensoreDistanza.ipynb)
+2. [Sensore ultrasonico di distanza](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-1-2-SensoreDistanza.ipynb)
 3. [Distanza Terra-Luna](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-3-DistanzaTerraLuna.ipynb)
 4. [Comunicazioni a lunga distanza (latency)](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-4-ComunicazioniLungaDistanza.ipynb)
 
