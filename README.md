@@ -7,7 +7,7 @@
 1. [Spazio di reazione](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-1-1-SpazioReazione.ipynb)
 2. [Sensore ultrasonico di distanza](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-1-2-SensoreDistanza.ipynb)
 3. [Distanza Terra-Luna](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-1-3-DistanzaTerraLuna.ipynb)
-4. [Comunicazioni a lunga distanza (latency)](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-4-ComunicazioniLungaDistanza.ipynb)
+4. [Comunicazioni a lunga distanza (latency)](http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-1-4-ComunicazioniLungaDistanza.ipynb)
 
 * #### Sezione 2. Moto con accelerazione costante
 1. [Caduta libera](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-2-1-CadutaLibera.ipynb)
