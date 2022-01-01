@@ -3,7 +3,7 @@
 ## Esempi ed esercizi di Fisica
 
 ### Parte I. Moto 1-D
-* #### Sezione 1. Moto con velocità costante
+* #### Sezione 1. Moto con velocità costante  http://nbviewer.org/github/POSS-UniMe/simple-physics-with-Python-ITA/blob/master/notebook/1-1-1-SpazioReazione.ipynb
 1. [Spazio di reazione](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-1-SpazioReazione.ipynb)
 2. [Sensore ultrasonico di distanza](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-2-SensoreDistanza.ipynb)
 3. [Distanza Terra-Luna](https://nbviewer.jupyter.org/github/POSS-UniMe/simple-physics-with-Python/blob/master/notebook/1-1-3-DistanzaTerraLuna.ipynb)
